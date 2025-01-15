@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact: Snowboard and Ski.
 
+<img align="right" width=300px alt="Unicorn" src="https://i.gifer.com/3odR.mp4" />
+
 ## My Skills Include
 
 <h4> Languages </h4>
