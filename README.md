@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact: Snowboard and Ski.
 
-<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/Y5ZNy-lD0AkAAAAd/aesthetic-loading.gif" />
-
 ## My Skills Include
 
 <h4> Languages </h4>
