@@ -5,7 +5,7 @@
 <div size='20px'> Hi! My name is Ricardo. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
 - 🔭 I’m currently working on Ing. Sistemas
   
